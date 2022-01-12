@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="right" height="360" width="180" src="https://discord.com/channels/709086879139627078/709086879139627081/930900046961053786">
+  <img align="right" height="360" width="360" img src="https://tenor.com/bORpx.gif">
                                                                                                                                               
 </div>
   
