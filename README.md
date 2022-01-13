@@ -1,4 +1,4 @@
-# Olá eu sou Arthur Goulart,
+# Olá, eu sou Arthur Goulart
 ### ▫️👨‍💻 Estou cursando Ciencia de Dados
 <div align="center">
   <a href="https://github.com/arthur-m-goulart">
