@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="right" height="360" width="360" img src="https://github.com/arthur-m-goulart/arthur-m-goulart/blob/main/ezgif.com-gif-maker.gif">
+  <img align="right" height="360" width="360" img src="https://github.com/arthur-m-goulart/arthur-m-goulart/blob/main/passista.gif">
                                                                                                                                               
 </div>
   
