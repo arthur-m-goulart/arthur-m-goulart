@@ -1,5 +1,6 @@
 # Olá, eu sou Arthur Goulart
 ### ▫️👨‍💻 Estou cursando Ciencia de Dados
+<a align="right"/>
   <a href="https://github.com/arthur-m-goulart">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-m-goulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-m-goulart&layout=compact&langs_count=7&theme=dark"/>
